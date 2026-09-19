@@ -1,6 +1,6 @@
-# Fixl Frontend
+# WorkNest Frontend
 
-React + TypeScript frontend for the Fixl collaborative project and task management platform.
+React + TypeScript frontend for the WorkNest collaborative project and task management platform.
 
 ## Stack
 
